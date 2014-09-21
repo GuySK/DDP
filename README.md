@@ -25,4 +25,10 @@ Create a new directory named 'bmi' and place both files there. Then enter the fo
 1. setwd("/your_path_to_bmi/bmi/..")    # position yourself on bmi's parent directory
 2. library(shiny)                       # load Shiny
 3. runApp("bmi", launch.browser=1)      # run application on default browser
+ 
+
+#### Documentation
+
+A Slidify presentation deck can be accessed online [here](http://guysk.github.io/DDP-Shiny-Deck/). It describes the application's purpose and functionality and local deployment details. 
+
 
